@@ -10,6 +10,11 @@ namespace Tests.QueueExample
     {
         static void Main(string[] args)
         {
+            // new TestMethod1().MockTest();
+            // new TestMethod2().MockTest();
+            // new TestMethod3().MockTest();
+            new TestMethod4().MockTest();
+
         }
     }
 }
